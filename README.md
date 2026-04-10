@@ -300,4 +300,4 @@ Datos de prueba iniciales
         -Cliente Demo
 
 # AUTOR
-Proyecto desarrollado por Carlos René Fernando Sarmiento Durón, como prueba MVP técnica para un sistema de cotización de cuadernos para Ficohsa Seguros.
+Proyecto desarrollado por Carlos René Fernando Sarmiento Durón, como prueba MVP técnica para un sistema de cotización de cuadernos.
