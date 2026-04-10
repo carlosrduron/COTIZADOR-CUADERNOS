@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.table-actions button,
+.table-actions a {
+  margin-right: 6px;
+}
